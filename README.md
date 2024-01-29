@@ -1,4 +1,4 @@
-# bsu-cs-208-style-sheet-example
+# BSU CS 208 CSS Style Sheet Example
 This project demonstrates the impact of different CSS stylesheets on the appearance of a simple HTML webpage.
  By using different stylesheets, users can see how the same HTML content can be visually transformed to create unique designs.
 
